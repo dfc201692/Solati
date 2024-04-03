@@ -1,0 +1,70 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.section {
+  margin-bottom: 30px;
+}
+
+.product-item {
+  margin-bottom: 10px;
+}
+
+.product-details {
+  margin-right: 10px;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.delete-button {
+  background-color: #f44336;
+}
+
+.delete-button:hover {
+  background-color: #d32f2f;
+}
+
+.update-button {
+  background-color: #4caf50;
+}
+
+.update-button:hover {
+  background-color: #388e3c;
+}
+
+.add-button {
+  background-color: #4caf50;
+}
+
+.add-button:hover {
+  background-color: #388e3c;
+}
+
+.calculate-button,
+.combination-button {
+  background-color: #4caf50;
+  padding: 5px 10px;
+}
+
+.calculate-button:hover,
+.combination-button:hover {
+  background-color: #388e3c;
+}
